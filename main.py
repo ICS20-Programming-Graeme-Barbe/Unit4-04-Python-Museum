@@ -1,3 +1,5 @@
+# Calculates if you can get into the mesuem for free, with a discount or need to pay full price
+
 age = int(input("Please enter your age: "))
 day = input("Please enter the day: ")
 day = day.upper()
